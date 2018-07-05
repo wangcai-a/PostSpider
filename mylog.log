@@ -1,0 +1,11 @@
+2018-06-12 09:56:20,711 - DEBUG - mylog.py[:38] - I.m debug
+2018-06-12 09:56:37,680 - DEBUG - mylog.py[:38] - I.m debug
+2018-06-12 09:56:37,680 - INFO - mylog.py[:41] - I.m info
+2018-06-12 09:56:37,680 - WARNING - mylog.py[:44] - I.m warning
+2018-06-12 09:56:37,681 - ERROR - mylog.py[:47] - I.m error
+2018-06-12 09:56:37,681 - CRITICAL - mylog.py[:50] - I.m critical
+2018-06-12 09:58:59,883 - DEBUG - Administrator - I.m debug
+2018-06-12 09:58:59,883 - INFO - Administrator - I.m info
+2018-06-12 09:58:59,883 - WARNING - Administrator - I.m warning
+2018-06-12 09:58:59,883 - ERROR - Administrator - I.m error
+2018-06-12 09:58:59,883 - CRITICAL - Administrator - I.m critical
